@@ -1,0 +1,6 @@
+Answer 1: 
+     The first loop is O(N) and the second loop is O(M). Since we don’t know which is bigger, we say this is O(N + M). This can also be written as O(max(N, M)).
+      And Since there is no additional space being utilized, the space complexity is constant i.e O(1).
+
+
+     
